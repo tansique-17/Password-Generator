@@ -26,7 +26,7 @@ You can install the required libraries using pip:
 pip install customtkinter pyperclip
 ```
 ---
----
+
 ## How to run
 
 ```bash
