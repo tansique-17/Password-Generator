@@ -27,21 +27,24 @@ pip install customtkinter pyperclip
 ```
 ---
 
-## How to run
+## Installation
+1. Clone or download the repository to your local machine.
+2. Ensure you have Python installed.
+3. Install the required libraries if not already installed.
 
-```bash
-python passwordgen.py
-```
-## How to Use
-
-1. **Enter Password Length**: In the "Enter password length" input field, specify the desired length for the password.  
-2. **Select Character Sets**: Use the checkboxes to include or exclude different types of characters in the password.  
+## Usage
+1. Run the program:
+   ```bash
+   python passwordgen.py
+   ```
+2. **Enter Password Length**: In the "Enter password length" input field, specify the desired length for the password.  
+3. **Select Character Sets**: Use the checkboxes to include or exclude different types of characters in the password.  
    - **Lowercase**: Include lowercase letters.  
    - **Uppercase**: Include uppercase letters.  
    - **Digits**: Include numeric digits.  
    - **Special Characters**: Include symbols and punctuation.  
-3. **Generate Password**: Click the "Generate Password" button or press `Enter` to generate the password based on your inputs.  
-4. **Copy to Clipboard**: Click the "Copy to Clipboard" button to copy the generated password to your clipboard for easy use.
+4. **Generate Password**: Click the "Generate Password" button or press `Enter` to generate the password based on your inputs.  
+5. **Copy to Clipboard**: Click the "Copy to Clipboard" button to copy the generated password to your clipboard for easy use.
 
    
 ---
