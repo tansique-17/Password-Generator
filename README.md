@@ -41,8 +41,8 @@ pip install customtkinter pyperclip
    
 ---
 ## Menu Bar
-1. About: Displays information about the application (version and creator).
-2. Exit: Closes the application.
+**1. About: Displays information about the application (version and creator).
+2. Exit: Closes the application.**
 ---
 
 ## Example Usage
