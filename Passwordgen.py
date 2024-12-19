@@ -52,7 +52,7 @@ def copy_to_clipboard():
 
 # Function to show "About" message
 def show_about():
-    messagebox.showinfo("About", "Password Generator v1.0\nCreated with customtkinter")
+    messagebox.showinfo("About", "Password Generator by Tansique Dasari\nVersion 1.0\n\nThis tool is created by custom tkinter.\nContact: tansique.17@gmail.com\ngithub: tansique-17")
 
 # Function to handle the exit functionality
 def exit_program():
