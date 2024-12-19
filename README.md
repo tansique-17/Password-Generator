@@ -26,7 +26,12 @@ You can install the required libraries using pip:
 pip install customtkinter pyperclip
 ```
 ---
+---
+## How to run
 
+```bash
+python passwordgen.py
+```
 ## How to Use
 
 1. **Enter Password Length**: In the "Enter password length" input field, specify the desired length for the password.  
